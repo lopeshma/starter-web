@@ -11,3 +11,9 @@ A lot of lectures devops.
 Sample website with plenty of files for demos
 
 machine dev
+
+##Git Comparision
+adding git compare lecture
+
+## GitHub Proj COntent
+comparison with rep
